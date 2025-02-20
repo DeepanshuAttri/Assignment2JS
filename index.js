@@ -3,10 +3,10 @@
 import { greetUser, celsiusToFahrenheit, factorial, generatePassword } from './utilities.js';
 
 // Call the functions
-greetUser("John", "Doe");
+greetUser("Deepanshu", "Attri");
 
-console.log(`25°C is ${celsiusToFahrenheit(25)}°F`);
+console.log(`50°C is ${celsiusToFahrenheit(50)}°F`);
 
-console.log(`Factorial of 5 is ${factorial(5)}`);
+console.log(`Factorial of 6 is ${factorial(6)}`);
 
-console.log(`Generated Password: ${generatePassword(10)}`);
+console.log(`Generated Password: ${generatePassword(8)}`);
